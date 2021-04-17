@@ -1,0 +1,24 @@
+h1 {
+    color:#845460;
+    font-size: 45px;
+}
+
+h2 {
+    color:#94bec7;
+    font-size: 35px;
+}
+
+h3 {
+    color: rgb(230, 200, 165);
+    font-size: 18px;
+}
+
+.p-info {
+    font-style: italic;
+    font-family: 'Times New Roman';
+    font-size: 17px;
+}
+
+.li-middle {
+    list-style-position: inside
+}
